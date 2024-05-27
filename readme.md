@@ -1,6 +1,6 @@
 # YouTube Audio Downloader
 
-EstA é um aplicacão  para baixar áudio de vídeos do YouTube em formato MP3. O aplicativo foi desenvolvido em Python utilizando a biblioteca Tkinter para a interface gráfica e o yt-dlp para o download de áudio.
+Esta é um aplicacão  para baixar áudio de vídeos do YouTube em formato MP3. O aplicativo foi desenvolvido em Python utilizando a biblioteca Tkinter para a interface gráfica e o yt-dlp para o download de áudio.
 
 ![alt text](image.png)
 
